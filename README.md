@@ -1,5 +1,5 @@
-# csdroid
-cobaltstrike手机客户端
+# csdroid_by:LinshaoSec
+# cobaltstrike手机客户端
 
 开发进度：
   2022年9月15日：已完成登录服务端，可获取到beacon信息
