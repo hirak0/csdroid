@@ -7,5 +7,10 @@
 # 如果您有期待，请点个start给与我开发的动力，Thanks
 And post issues
 
-预览
-![image](https://user-images.githubusercontent.com/96420060/190376134-65f70088-1f80-4aec-9c0b-7759be0bf976.png)
+
+# 设计图
+
+![image](https://user-images.githubusercontent.com/96420060/190606092-c3241505-e2de-4752-8260-38ec344ea4e7.png)
+
+# 实物图
+![image](https://user-images.githubusercontent.com/96420060/190607040-65c8a637-4035-4f85-88ac-defd390acab9.png)
