@@ -3,7 +3,7 @@
 
 
   
-# 如果您有期待，请点个start给与我开发的动力，Thanks
+# 如果您有期待，请点个star给与我开发的动力，Thanks
 And post issues
 
 
