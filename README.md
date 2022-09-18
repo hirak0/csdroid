@@ -39,6 +39,8 @@ And post issues
 			有结果：（表示收到session心跳）则在curr_object_sessions_obj根据bid里查找对应的实体，
 				有结果：（表示已经添加到显示列表），更新其子项的心跳
 				没有结果：(表示为新的加入)，在all_object_sessions_obj查询其信息
+					存在: 生成sessionbean添加到列表，
+					不存在：显示无法获取对应的session会话，可以尝试重新调用ready来获取元数据
 
 
 下步实现：
