@@ -19,7 +19,7 @@
 无需设置
    
  
-登录魔改版本：   
+登录魔改版本(有些版本修改了一些文件导致即使登录成功也不会有会话。请等待开源后自己修改)：   
 点击登录设置,修改写入int值为，commom/SecureSocket.class文件拖入idea，authenticate()函数内第69行writeInt的数字(如48879):var3.writeInt(48879);   
 修改写出int值为：commom/SecureSocket.class文件拖入idea，authenticate()函数内第83行的数字(如51966)：if (var4 != 51966) 
 
