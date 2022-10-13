@@ -47,11 +47,14 @@ c2d:方便在外时候参与多人运动
 
 
 # 演示视频
-等待上传
+
+https://user-images.githubusercontent.com/96420060/195594473-e9125dca-dceb-4167-918b-9a2898f52c06.mp4
+
+
 
 
 # Star
-[![Stargazers over time](https://starchart.cc/linshaoSec/WaterExp.svg)](https://starchart.cc/linshaoSec/WaterExp)
+[![Stargazers over time](https://starchart.cc/linshaoSec/csdroid.svg)](https://starchart.cc/linshaoSec/csdroid)
 ***
 
   
