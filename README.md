@@ -1,10 +1,6 @@
 # csdroid_by:LinshaoSec
 # cobaltstrike手机客户端
-
-
-  
-# 如果您有期待，请点个star给与我开发的动力，Thanks
-And post issues`最新编辑时间：2022年10月10日`
+`最新编辑时间：2022年10月10日`
 
 
 # 设计图
@@ -16,13 +12,29 @@ And post issues`最新编辑时间：2022年10月10日`
 
 # ------------------------------------------------------------------------------
 
-***
+# 使用
+
+## 登录
+登录默认版本：  
+无需设置
+   
+ 
+登录魔改版本：   
+点击登录设置,修改写入int值为，commom/SecureSocket.class文件拖入idea，authenticate()函数内第69行writeInt的数字(如48879):var3.writeInt(48879);   
+修改写出int值为：commom/SecureSocket.class文件拖入idea，authenticate()函数内第83行的数字(如51966)：if (var4 != 51966) 
+
+## 版本适配   
+点击登录会提示再次点击登录按钮即可成功
+
+
+# 简介   
+c2d:方便在外时候参与多人运动
 
 下步计划：   
         &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-        简单美化下发布1.0版本,`预计2022年10月12日`  
+        已发布1.0版本,`2022年10月13日`  
         &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-        之后看需求情况更新，需求不大的话就简简单单就差不多了，这几天肝快没了
+        之后看需求情况更新，需求不大的话就这样简简单单就差不多了，肝快没了
         
 已实现功能：  
         &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -32,7 +44,16 @@ And post issues`最新编辑时间：2022年10月10日`
         
 待写功能：移除shell会话,创建删除监听器、生成shellcode、截屏、文件管理、进程查看、  
 
+
+
+# 演示视频
+等待上传
+
+
+# Star
+[![Stargazers over time](https://starchart.cc/linshaoSec/WaterExp.svg)](https://starchart.cc/linshaoSec/WaterExp)
 ***
+
   
 开发进度：
 
@@ -72,14 +93,7 @@ And post issues`最新编辑时间：2022年10月10日`
 
 2022年10月10日： 1.`命令导出`已经实现功能，细节仍需处理  
 
-2022年10月13日： 1.自动适配服务器cs版本进行登录，暂时4.3,4.5测试成功
+2022年10月13日： 1.自动适配服务器cs版本进行登录，暂时4.3,4.5，4.4修改版测试成功
 
-
-![image](https://user-images.githubusercontent.com/96420060/190707124-e93e91ab-ac0d-422c-969b-f440e0cd5290.png)
-![image](https://user-images.githubusercontent.com/96420060/194535361-ff974990-fb78-4280-ab64-ac980274dff1.png)
-
-
-
-https://user-images.githubusercontent.com/96420060/191273173-c0037864-1d04-40af-8ea3-d0c9952935b9.mp4
 
 
