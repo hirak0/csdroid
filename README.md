@@ -72,6 +72,7 @@ And post issues`最新编辑时间：2022年10月10日`
 
 2022年10月10日： 1.`命令导出`已经实现功能，细节仍需处理  
 
+2022年10月13日： 1.自动适配服务器cs版本进行登录，暂时4.3,4.5测试成功
 
 
 ![image](https://user-images.githubusercontent.com/96420060/190707124-e93e91ab-ac0d-422c-969b-f440e0cd5290.png)
